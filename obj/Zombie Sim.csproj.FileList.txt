@@ -1,0 +1,14 @@
+bin\Debug\Zombie Sim.exe
+bin\Debug\Zombie Sim.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Zombie_Sim.frmSim.resources
+obj\Debug\Zombie_Sim.Properties.Resources.resources
+obj\Debug\Zombie Sim.csproj.GenerateResource.Cache
+obj\Debug\Zombie Sim.exe
+obj\Debug\Zombie Sim.pdb
+obj\Debug\Zombie_Sim.frmControls.resources
+bin\Debug\Zombie Sim.exe.manifest
+bin\Debug\Zombie Sim.application
+obj\Debug\Zombie Sim.TrustInfo.xml
+obj\Debug\Zombie Sim.exe.manifest
+obj\Debug\Zombie Sim.application
